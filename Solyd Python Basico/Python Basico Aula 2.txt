@@ -1,0 +1,7 @@
+float = Numero quebrado
+int = Numero inteiro
+str = Texto
+Funções:
+input = entrada
+print = saida
+type = tipo

@@ -1,0 +1,3 @@
+discord.py
+oauth2
+requests
